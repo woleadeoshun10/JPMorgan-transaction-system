@@ -1,4 +1,4 @@
-# Midas Core - Financial Transaction Processing System
+# JPMorgan - Financial Transaction Processing System
 
 A production-grade financial transaction processing system built with Spring Boot and Apache Kafka, developed as part of the JPMorgan Chase Software Engineering Virtual Experience Program.
 
@@ -221,7 +221,7 @@ This project was created as part of the JPMorgan Chase Software Engineering Virt
 ---
 
 **Built with ☕ and Spring Boot**
-EOF
+
 
 
 ## Architectures 
